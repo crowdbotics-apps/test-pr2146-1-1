@@ -1,5 +1,7 @@
 # Crowdbotics React Native scaffold
 
+test
+
 After cloning this repo, you will need to install the dependencies:
 
 `cd ProjectName`
